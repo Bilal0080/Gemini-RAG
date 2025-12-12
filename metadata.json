@@ -1,0 +1,7 @@
+{
+  "name": "Gemini Client-Side RAG",
+  "description": "A powerful, serverless Retrieval-Augmented Generation (RAG) chat application running entirely in the browser using Gemini 2.5 Flash and text-embedding-004.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
